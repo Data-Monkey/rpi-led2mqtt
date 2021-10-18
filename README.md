@@ -7,9 +7,9 @@ The easiest way to control a led strip like this is probably WLED but I had some
 
 
 ### Thanks
-So here we are, using the Python version [rpi-ws281x-python] (https://github.com/rpi-ws281x/rpi-ws281x-python) wrapping the original library [rpi_ws211x](https://github.com/jgarff/rpi_ws281x) by [Jeremy Graff](https://github.com/jgarff)
+So here we are, using the Python version [rpi-ws281x-python](https://github.com/rpi-ws281x/rpi-ws281x-python) wrapping the original library [rpi_ws211x](https://github.com/jgarff/rpi_ws281x) by [Jeremy Graff](https://github.com/jgarff)
 
-The code simple code is very much inspired by [Thomas Hudson]'s [OpenRGB to MQTT light](https://gist.github.com/ghomasHudson https://gist.github.com/ghomasHudson/7cc24aa187e8141003073e36e068a5a2) code.
+The code simple code is very much inspired by [Thomas Hudson](https://gist.github.com/ghomasHudson)'s [OpenRGB to MQTT light](https://gist.github.com/ghomasHudson/7cc24aa187e8141003073e36e068a5a2) code.
 
 And the MQTT structure used by zigbee2mqtt 
 
