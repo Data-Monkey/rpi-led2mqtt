@@ -10,3 +10,5 @@ You need to update the constants at the top of the file to match your environeme
 ```
 sudo python3 simple_light.py
 ```
+
+It uses Home Assistant MQTT Discovery to setup the light and you will be able to control the light from within [Home Assistant] (http://home-assistant.io)
